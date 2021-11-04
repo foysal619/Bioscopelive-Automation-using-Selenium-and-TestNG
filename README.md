@@ -1,7 +1,7 @@
 # BioscopeliveAutomation using Selenium
 
 ### Technology used
-    Test tool: Selenium
+    *Test tool: Selenium
     Language: Java
     Framework: TestNG
     IDE: Eclipse
