@@ -12,7 +12,7 @@ public class BioScopeLive extends DriverSetUp {
 	public static String baseUrl= "https://www.bioscopelive.com/en/";
 	
 	@Test
-	public static void DemoTest() throws InterruptedException {
+	public static void BongoCodeTest() throws InterruptedException {
 		driver.get(baseUrl);
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
