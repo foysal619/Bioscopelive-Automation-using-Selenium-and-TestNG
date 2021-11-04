@@ -1,6 +1,6 @@
 # BioscopeliveAutomation using Selenium
 
-#Technology-used
+##Technology-used
 Test tool: Selenium
 Language: Java
 Framework: TestNG
