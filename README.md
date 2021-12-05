@@ -1,5 +1,7 @@
 # BioscopeliveAutomation using Selenium
 
+In this project I have automated https://www.bioscopelive.com/ web application using Selenium and TestNG. Written 3 Test cases including opening the URL, Click and Load a movie/drama, And play the drama without any errors.
+
 ### Technology used
     - Test tool: Selenium
     - Language: Java
